@@ -4,6 +4,7 @@ This repository contains links to presentation videos from Filipino security res
 
 | Talk Title | Author | Conference | Link |
 | --- | --- | --- | --- |
+| Reversing C++ | Paul Sabanal & Mark Vincent Yason | Black Hat USA 2007 |https://www.youtube.com/watch?v=Vy0z1baCh8s and https://www.youtube.com/watch?v=1wZ615YlMFs&t=517s |
 | Digging Deep Into The Flash Sandboxes | Paul Sabanal & Mark Vincent Yason | Black Hat USA 2012 |https://www.youtube.com/watch?v=RGMHSty7_-I |
 | Dangerous Minds The Art of Guerrilla Data Mining | Mark Ryan Talabis | DEFCON 17 |https://www.youtube.com/watch?v=u5Xx0Ls3Ykg |
 | Diving Into IE 10’s Enhanced Protected Mode Sandbox | Mark Vincent Yason | Blackhat Asia 2014 |https://www.youtube.com/watch?v=1tBCuYL69Ww |
