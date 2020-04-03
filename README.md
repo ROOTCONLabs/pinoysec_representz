@@ -12,7 +12,8 @@ This repository contains links to presentation videos from Filipino security res
 | Challenges on Reversing Layered Malware | Raul Alvarez | DefCamp 2015 | https://www.youtube.com/watch?v=h-klvhduR2A |
 | Into the Core: In-Depth Exploration of Windows 10 IoT Core | Paul Sabanal| Blackhat USA 2016 | https://www.youtube.com/watch?v=tSQxuxmzXCc |
 | The Bieber Project: Adventures in Buying Internet Traffic | Mark Ryan Talabis | DEF CON 23 | https://www.youtube.com/watch?v=uP3mcm3-9lI |
-| Data Driven Web Hacking & Manual Testing | JP Villanueva | AppSecUSA 2017 | https://www.youtube.com/watch?v=IEak_-SG8xM
+| Data Driven Web Hacking & Manual Testing | JP Villanueva | AppSecUSA 2017 | https://www.youtube.com/watch?v=IEak_-SG8xM |
+| Creating Your Own Customized Metamorphic Algorithm | Raul Alvarez | CircleCityCon 2017 | https://www.youtube.com/watch?v=rK-17nrseH4 |
 | Malware Automation | Christopher Elisan | LASCON| https://www.youtube.com/watch?v=oEE38UjPdmk |
 | Demystifying the Ransomware and IoT Threat | Christopher Elisan | BSides Amsterdam 2017| https://www.youtube.com/watch?v=XX5wXGmUFmw |
 | Dissecting a Metamorphic File-Infecting Ransomware | Raul Alvarez | Hackfest 2017| https://www.youtube.com/watch?v=vJ08_6CCd6g |
