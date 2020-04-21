@@ -24,6 +24,7 @@ This repository contains links to presentation videos from Filipino / Pinoy secu
 | Demystifying the Ransomware and IoT Threat | Christopher Elisan | BSides Amsterdam 2017| https://www.youtube.com/watch?v=XX5wXGmUFmw |
 | Dissecting a Metamorphic File-Infecting Ransomware | Raul Alvarez | Hackfest 2017| https://www.youtube.com/watch?v=vJ08_6CCd6g |
 | Car Infotainment Hacking Methodology and Attack Surface Scenarios | Jay Turla | DEF CON 26 Packet Hacking Village | https://www.youtube.com/watch?v=F0mYkI2FJ_4 |
+| Internet Of Things: Battle Of The Bots | Rommel D. Joven | HITBGSEC 2018 COMMSEC | https://www.youtube.com/watch?v=HHiEWpA-U1g |
 | Forensicating Windows Artifacts: Investigation Without Event Logs! | Renzon Cruz | Security BSides London 2019 | https://www.youtube.com/watch?v=7isKHEYHHm4 |
 | Automotive Security Bugs Explained for Bug Hunters | Jay Turla | Nullcon Goa 2020 | https://www.youtube.com/watch?v=gfGlCtzFUAg |
 | DFIR at no Cost | Renzon Cruz | Bsides Doha 2020 | https://www.youtube.com/watch?v=Q3dXo5hq1SA |
