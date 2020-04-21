@@ -15,6 +15,7 @@ This repository contains links to presentation videos from Filipino / Pinoy secu
 | Into the Core: In-Depth Exploration of Windows 10 IoT Core | Paul Sabanal| Blackhat USA 2016 | https://www.youtube.com/watch?v=tSQxuxmzXCc |
 | Building Your Own SMS/MMS Fuzzer | Matt Molinyawe | DEF CON 22 | https://www.youtube.com/watch?v=zn6D-iVcRwg |
 | The Bieber Project: Adventures in Buying Internet Traffic | Mark Ryan Talabis | DEF CON 23 | https://www.youtube.com/watch?v=uP3mcm3-9lI |
+| DEF CON 24 - Panel - Closing Ceremonies (Called on stage for Winning DEFCON's CTP) | Raymond Nunez and Belvz | DEF CON 24 | https://www.youtube.com/watch?v=bfuRKriDDYQ&feature=youtu.be&t=2217 |
 | Kernel Exploit Hunting And Mitigation | Broderick Aquilino | HITB2016AMS | https://www.youtube.com/watch?v=nvI6w8aW-4Q |
 | $Hell on Earth: From Browser to System Compromise | Matt Molinyawe | Blackhat USA 2016 | https://www.youtube.com/watch?v=7wIiqqgDWdQ |
 | Data Driven Web Hacking & Manual Testing | JP Villanueva | AppSecUSA 2017 | https://www.youtube.com/watch?v=IEak_-SG8xM |
