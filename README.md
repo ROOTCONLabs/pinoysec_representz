@@ -32,4 +32,4 @@ This repository contains links to presentation videos from Filipino / Pinoy secu
 | Car Hacking Explained for Bug Hunters v2.0 / Automotive Security Bugs Explained for Bug Hunters v2.0 |Jay Turla| Bugcrowd LevelUp 0x06|https://www.youtube.com/watch?v=kNtxH3zjWbE&t=1777s|
 | Dirty CAN Bus Hacking: I CAN Fuzz my Car and Junks |Jay Turla| SSD Lil' Bytes |https://www.youtube.com/watch?v=hp5pJiNTYiY&t=351s|
 | Automating and Tooling your own CAN Hacking Tool on a Cheap Car Hacking Adventure |Jay Turla| SINCON 2020 |https://www.youtube.com/watch?v=4t3lVdQoMq4&t=21475s|
-
+|Intro to Car Hacking for Fun and Profit (Car Hacking Village) |Jay Turla| AppSec Indonesia Training 2020 |https://www.youtube.com/watch?v=4t3lVdQoMq4&t=21475s|
