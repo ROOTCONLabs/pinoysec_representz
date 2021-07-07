@@ -29,3 +29,4 @@ This repository contains links to presentation videos from Filipino / Pinoy secu
 | Forensicating Windows Artifacts: Investigation Without Event Logs! | Renzon Cruz | Security BSides London 2019 | https://www.youtube.com/watch?v=7isKHEYHHm4 |
 | Automotive Security Bugs Explained for Bug Hunters | Jay Turla | Nullcon Goa 2020 | https://www.youtube.com/watch?v=gfGlCtzFUAg |
 | DFIR at no Cost | Renzon Cruz | Bsides Doha 2020 | https://www.youtube.com/watch?v=Q3dXo5hq1SA |
+| Car Hacking Explained for Bug Hunters v2.0 / Automotive Security Bugs Explained for Bug Hunters v2.0 |Jay Turla| Bugcrowd LevelUp 0x06|https://www.youtube.com/watch?v=kNtxH3zjWbE&t=1777s|
