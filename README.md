@@ -31,4 +31,5 @@ This repository contains links to presentation videos from Filipino / Pinoy secu
 | DFIR at no Cost | Renzon Cruz | Bsides Doha 2020 | https://www.youtube.com/watch?v=Q3dXo5hq1SA |
 | Car Hacking Explained for Bug Hunters v2.0 / Automotive Security Bugs Explained for Bug Hunters v2.0 |Jay Turla| Bugcrowd LevelUp 0x06|https://www.youtube.com/watch?v=kNtxH3zjWbE&t=1777s|
 | Dirty CAN Bus Hacking: I CAN Fuzz my Car and Junks |Jay Turla| SSD Lil' Bytes |https://www.youtube.com/watch?v=hp5pJiNTYiY&t=351s|
+| Automating and Tooling your own CAN Hacking Tool on a Cheap Car Hacking Adventure |Jay Turla| SINCON 2020 |https://www.youtube.com/watch?v=4t3lVdQoMq4&t=21475s|
 
