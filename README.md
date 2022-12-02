@@ -35,3 +35,4 @@ This repository contains links to presentation videos from Filipino / Pinoy secu
 | Intro to Car Hacking for Fun and Profit (Car Hacking Village) |Jay Turla| AppSec Indonesia Training 2020 |https://www.youtube.com/watch?v=QiFbaD3bE-Q|
 | Bug Hunter's Guide to Bashing for Car Hacking Bug Bash (Car Hacking Village) |Jay Turla| DEFCON 29 |https://www.youtube.com/watch?v=L7AwMhguR6s|
 | Forensicating Endpoint Artifacts in Cloud Storage Svcs (Blue Team Village) |Renzon Cruz| DEFCON 29 |https://www.youtube.com/watch?v=fvCX7DP8rw4|
+|  canTot - A CAN Bus Hacking Framework (Car Hacking Village) |Jay Turla| DEFCON 30 |https://www.youtube.com/watch?v=OBC0v5KDcJg|
